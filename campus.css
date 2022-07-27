@@ -1,0 +1,16 @@
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url('D:/webdesign/campus.jpg');
+	background-size: cover;
+	background-position: center;
+	
+}
+h1{
+	margin : 50px;
+}
+h3
+{
+	color : white;
+	margin : 50px;
+}
+	
+	
